@@ -1,0 +1,47 @@
+{
+	"schemaVersion": 1,
+	"id": "ping-display",
+	"version": "${version}",
+	"name": "Ping Display",
+	"description": "A simple Ping Display with fully configurable colour settings.",
+	"authors": [
+		"Avie29"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/avies-ping-display",
+		"sources": "https://github.com/avie293/Avie-s-Ping-Display",
+		"issues": "https://github.com/avie293/Avie-s-Ping-Display/issues"
+	},
+	"license": "CC-BY-NC-4.0",
+	"icon": "assets/ping-display/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.avie29.pingdisplay.PingDisplayClientInit"
+		],
+		"modmenu": [
+			"com.avie29.pingdisplay.PingDisplayModMenuApiImpl"
+		]
+	},
+	"mixins": [
+		"ping-display.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"cloth-config": "*",
+		"modmenu": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"avie29.discord": "https://discord.gg/w8wpTdeTt4"
+			}
+		}
+	}
+
+}

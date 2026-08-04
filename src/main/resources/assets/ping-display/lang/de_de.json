@@ -1,0 +1,13 @@
+{
+  "config.pingdisplay.title": "Ping Display Einstellungen",
+  "config.pingdisplay.category.options": "Einstellungen",
+  "config.pingdisplay.pingColorGood": "Guter Ping Farbe",
+  "config.pingdisplay.pingColorOk": "Mittlerer Ping Farbe",
+  "config.pingdisplay.pingColorBad": "Schlechter Ping Farbe",
+  "config.pingdisplay.pingColorTerrible": "Schlimmer Ping Farbe",
+  "config.pingdisplay.pingColorUnknown": "Unbekannter Ping Farbe",
+  "config.pingdisplay.showMs": "Zeige 'ms'",
+  "config.pingdisplay.showNametagPing": "Zeige Ping auf Name Tags",
+  "config.pingdisplay.textShadow": "Text Schatten",
+  "avie29.discord": "Discord"
+}
