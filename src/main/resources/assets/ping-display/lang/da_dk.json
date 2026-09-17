@@ -1,0 +1,13 @@
+{
+  "config.pingdisplay.title": "Indstillinger for ping-visning",
+  "config.pingdisplay.category.options": "Indstillinger",
+  "config.pingdisplay.pingColorGood": "Farve for god ping",
+  "config.pingdisplay.pingColorOk": "Farve for middelmådig ping",
+  "config.pingdisplay.pingColorBad": "Farve for dårlig ping",
+  "config.pingdisplay.pingColorTerrible": "Farve for elendig ping",
+  "config.pingdisplay.pingColorUnknown": "Farve for ukendt ping",
+  "config.pingdisplay.showMs": "Vis 'ms'",
+  "config.pingdisplay.showNametagPing": "Vis ping på navneskilte",
+  "config.pingdisplay.textShadow": "Tekstskygge",
+  "avie29.discord": "Discord"
+}
