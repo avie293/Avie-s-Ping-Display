@@ -1,0 +1,13 @@
+{
+  "config.pingdisplay.title": "Options d'affichage du ping",
+  "config.pingdisplay.category.options": "Options",
+  "config.pingdisplay.pingColorGood": "Couleur pour un bon ping",
+  "config.pingdisplay.pingColorOk": "Couleur pour un ping moyen",
+  "config.pingdisplay.pingColorBad": "Couleur pour un mauvais ping",
+  "config.pingdisplay.pingColorTerrible": "Couleur pour un ping catastrophique",
+  "config.pingdisplay.pingColorUnknown": "Couleur pour un ping inconnu",
+  "config.pingdisplay.showMs": "Afficher 'ms'",
+  "config.pingdisplay.showNametagPing": "Afficher le ping sur les badges",
+  "config.pingdisplay.textShadow": "Ombre du texte",
+  "avie29.discord": "Discord"
+}
